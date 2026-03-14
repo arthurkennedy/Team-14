@@ -1,0 +1,499 @@
+HOSPITAL_NAME,CITY,STATE,STATE_FULL,TRAUMA_ADULT,TRAUMA_PEDS,BURN_ADULT,BURN_PEDS,adult_gap_flag,peds_gap_flag,dual_trauma_flag,priority_score
+Alaska Native Medical Center,Anchorage,AK,Alaska,1,1,0,0,1,1,1,5
+Providence Alaska Medical Center/Children's Hospital at Providence,Anchorage,AK,Alaska,1,1,0,0,1,1,1,5
+Banner Desert Medical Center/Banner Children's at Desert,Mesa,AZ,Arizona,1,1,0,0,1,1,1,5
+Loma Linda University Medical Center/Loma Linda University Children's Hospital,Loma Linda,CA,California,1,1,0,0,1,1,1,5
+Providence Mission Hospital,Mission Viejo,CA,California,1,1,0,0,1,1,1,5
+Stanford Health Care/Lucile Packard Children's Hospital Stanford,Palo Alto,CA,California,1,1,0,0,1,1,1,5
+Denver Health Medical Center,Denver,CO,Colorado,1,1,0,0,1,1,1,5
+Yale-New Haven Hospital,New Haven,CT,Connecticut,1,1,0,0,1,1,1,5
+Memorial Regional Hospital/Joe DiMaggio Children's Hospital,Hollywood,FL,Florida,1,1,0,0,1,1,1,5
+Ascension Sacred Heart Pensacola,Pensacola,FL,Florida,1,1,0,0,1,1,1,5
+St. Joseph's Hospital,Tampa,FL,Florida,1,1,0,0,1,1,1,5
+Augusta University Medical Center,Augusta,GA,Georgia,1,1,0,0,1,1,1,5
+OSF St. Francis Medical Center/OSF Children's Hospital of Illinois	,Peoria,IL,Illinois,1,1,0,0,1,1,1,5
+St. John's Hospital/St. John's Children's Hospital	,Springfield,IL,Illinois,1,1,0,0,1,1,1,5
+Ascension St. Vincent Evansville,Evansville,IN,Indiana,1,1,0,0,1,1,1,5
+Parkview Regional Medical Center,Fort Wayne,IN,Indiana,1,1,0,0,1,1,1,5
+MercyOne Des Moines Medical Center,Des Moines,IA,Iowa,1,1,0,0,1,1,1,5
+UnityPoint Health - Iowa Methodist Medical Center/Blank Children's Hospital,Des Moines,IA,Iowa,1,1,0,0,1,1,1,5
+Wesley Healthcare Center/Wesley Children's Hospital,Wichita,KS,Kansas,1,1,0,0,1,1,1,5
+University of Kentucky Albert B. Chandler Hospital ,Lexington,KY,Kentucky,1,1,0,0,1,1,1,5
+Boston Medical Center,Boston,MA,Massachusetts,1,1,0,0,1,1,1,5
+Tufts Medical Center,Boston,MA,Massachusetts,1,1,0,0,1,1,1,5
+Baystate Medical Center,Springfield,MA,Massachusetts,1,1,0,0,1,1,1,5
+Ascension St. John Hospital,Detroit,MI,Michigan,1,1,0,0,1,1,1,5
+Beaumont Hospital - Royal Oak,Royal Oak,MI,Michigan,1,1,0,0,1,1,1,5
+Covenant HealthCare,Saginaw ,MI,Michigan,1,1,0,0,1,1,1,5
+Essentia Health St. Mary's Medical Center,Duluth,MN,Minnesota ,1,1,0,0,1,1,1,5
+"Mayo Clinic Hospital, Saint Mary's Campus",Rochester,MN,Minnesota ,1,1,0,0,1,1,1,5
+Dartmouth-Hitchcock Medical Center,Lebanon,NH,New Hampshire,1,1,0,0,1,1,1,5
+Cooper University Health Care,Camden,NJ,New Jersey,1,1,0,0,1,1,1,5
+Jersey Shore University Medical Center,Neptune,NJ,New Jersey,1,1,0,0,1,1,1,5
+Robert Wood Johnson University Hospital,New Brunswick,NJ,New Jersey,1,1,0,0,1,1,1,5
+New Jersey Trauma Center at the University Hospital,Newark,NJ,New Jersey,1,1,0,0,1,1,1,5
+Albany Medical Center,Albany,NY,New York,1,1,0,0,1,1,1,5
+Maimonides Medical Center/Maimonides Children's Hospital,Brooklyn,NY,New York,1,1,0,0,1,1,1,5
+Richmond University Medical Center,Staten Island,NY,New York,1,1,0,0,1,1,1,5
+Good Samaritan Hospital Medical Center,West Islip,NY,New York,1,1,0,0,1,1,1,5
+Carolinas Medical Center/Levine Children's Hospital,Charlotte,NC,North Carolina,1,1,0,0,1,1,1,5
+Vidant Medical Center/Maynard Children's Hospital,Greenville,NC,North Carolina,1,1,0,0,1,1,1,5
+Sanford Medical Center Fargo,Fargo,ND,North Dakota,1,1,0,0,1,1,1,5
+ProMedica Toledo Hospital/Russell J. Ebeid Children's Hospital,Toledo,OH,Ohio,1,1,0,0,1,1,1,5
+OU Medical Center,Oklahoma City,OK,Oklahoma,1,1,0,0,1,1,1,5
+Oregon Health & Science University/Doernbecher Children's Hospital,Portland,OR,Oregon,1,1,0,0,1,1,1,5
+Geisinger Medical Center/ Geisinger Janet Weis Children's Hospital,Danville,PA,Pennsylvania,1,1,0,0,1,1,1,5
+Penn State Milton S. Hershey Medical Center/Penn State Children's Hospital,Hershey,PA,Pennsylvania,1,1,0,0,1,1,1,5
+Prisma Health Richland,Columbia,SC,South Carolina,1,1,0,0,1,1,1,5
+Prisma Health Greenville Memorial Hospital,Greenville,SC,South Carolina,1,1,0,0,1,1,1,5
+Grand Strand Medical Center,Myrtle Beach,SC,South Carolina,1,1,0,0,1,1,1,5
+Sanford USD Medical Center,Sioux Falls,SD,South Dakota,1,1,0,0,1,1,1,5
+Baylor Scott & White Medical Center - Temple,Temple,TX,Texas,1,1,0,0,1,1,1,5
+Carilion Roanoke Memorial Hospital,Roanoke,VA,Virginia,1,1,0,0,1,1,1,5
+Providence Sacred Heart Medical Center & Children's Hospital,Spokane,WA,Washington,1,1,0,0,1,1,1,5
+West Virginia University Hospitals (J.W. Ruby Memorial Hospital),Morgantown,WV,West Virginia,1,1,0,0,1,1,1,5
+Marshfield Medical Center,Marshfield,WI,Wisconsin,1,1,0,0,1,1,1,5
+Southeast Alabama Medical Center,Dothan,AL,Alabama,1,0,0,0,1,0,0,2
+Huntsville Hospital ,Huntsville,AL,Alabama,1,0,0,0,1,0,0,2
+Baptist Medical Center South ,Montgomery,AL,Alabama,1,0,0,0,1,0,0,2
+Chandler Regional Medical Center,Chandler,AZ,Arizona,1,0,0,0,1,0,0,2
+Flagstaff Medical Center,Flagstaff,AZ,Arizona,1,0,0,0,1,0,0,2
+Banner Thunderbird Medical Center,Glendale,AZ,Arizona,1,0,0,0,1,0,0,2
+Abrazo West Campus,Goodyear,AZ,Arizona,1,0,0,0,1,0,0,2
+Banner University Medical Center - Phoenix,Phoenix,AZ,Arizona,1,0,0,0,1,0,0,2
+HonorHealth Deer Valley Medical Center,Phoenix,AZ,Arizona,1,0,0,0,1,0,0,2
+HonorHealth John C. Lincoln Medical Center,Phoenix,AZ,Arizona,1,0,0,0,1,0,0,2
+Phoenix Children's Hospital,Phoenix,AZ,Arizona,0,1,0,0,0,1,0,2
+St. Joseph's Hospital and Medical Center,Phoenix,AZ,Arizona,1,0,0,0,1,0,0,2
+HonorHealth Scottsdale Osborn Medical Center,Scottsdale,AZ,Arizona,1,0,0,0,1,0,0,2
+Carondelet St. Joseph's Hospital,Tucson,AZ,Arizona,1,0,0,0,1,0,0,2
+Washington Regional Medical Center,Fayetteville,AR,Arkansas,1,0,0,0,1,0,0,2
+CHI St. Vincent Hospital Hot Springs,Hot Springs,AR,Arkansas,1,0,0,0,1,0,0,2
+Baptist Health Medical Center,Little Rock,AR,Arkansas,1,0,0,0,1,0,0,2
+CHI St. Vincent Infirmary ,Little Rock,AR,Arkansas,1,0,0,0,1,0,0,2
+UAMS Medical Center,Little Rock ,AR,Arkansas,1,0,0,0,1,0,0,2
+Mercy San Juan Medical Center,Carmichael,CA,California,1,0,0,0,1,0,0,2
+Sutter Health Eden Medical Center,Castro Valley,CA,California,1,0,0,0,1,0,0,2
+Enloe Medical Center,Chico,CA,California,1,0,0,0,1,0,0,2
+Palomar Medical Center Escondido,Escondido,CA,California,1,0,0,0,1,0,0,2
+NorthBay Medical Center,Fairfield,CA,California,1,0,0,0,1,0,0,2
+San Joaquin General Hospital,French Camp,CA,California,1,0,0,0,1,0,0,2
+Scripps Memorial Hospital,La Jolla,CA,California,1,0,0,0,1,0,0,2
+Antelope Valley Hospital ,Lancaster,CA,California,1,0,0,0,1,0,0,2
+Long Beach Medical Center,Long Beach,CA,California,1,0,0,0,1,0,0,2
+St. Mary Medical Center Long Beach,Long Beach,CA,California,1,0,0,0,1,0,0,2
+California Hospital Medical Center,Los Angeles,CA,California,1,0,0,0,1,0,0,2
+Ronald Reagan UCLA Medical Center,Los Angeles,CA,California,1,0,0,0,1,0,0,2
+Children's Hospital Los Angeles,Los Angeles ,CA,California,0,1,0,0,0,1,0,2
+St. Francis Medical Center Lynwood,Lynwood,CA,California,1,0,0,0,1,0,0,2
+Valley Children's Healthcare,Madera,CA,California,0,1,0,0,0,1,0,2
+Providence Holy Cross Medical Center,Mission Hills,CA,California,1,0,0,0,1,0,0,2
+Doctors Medical Center,Modesto,CA,California,1,0,0,0,1,0,0,2
+Memorial Medical Center,Modesto,CA,California,1,0,0,0,1,0,0,2
+Riverside University Health System Medical Center,Moreno Valley,CA,California,1,0,0,0,1,0,0,2
+Northridge Hospital Medical Center,Northridge ,CA,California,1,0,0,0,1,0,0,2
+Highland Hospital,Oakland,CA,California,1,0,0,0,1,0,0,2
+UCSF Benioff Children's Hospital Oakland,Oakland,CA,California,0,1,0,0,0,1,0,2
+Children's Hospital of Orange County,Orange,CA,California,0,1,0,0,0,1,0,2
+Desert Regional Medical Center,Palm Springs,CA,California,1,0,0,0,1,0,0,2
+Huntington Hospital,Pasadena,CA,California,1,0,0,0,1,0,0,2
+Pomona Valley Hospital Medical Center,Pomona,CA,California,1,0,0,0,1,0,0,2
+Mercy Medical Center Redding,Redding,CA,California,1,0,0,0,1,0,0,2
+HCA Riverside Community Hospital,Riverside ,CA,California,1,0,0,0,1,0,0,2
+Sutter Roseville Medical Center,Roseville,CA,California,1,0,0,0,1,0,0,2
+Kaiser Permanente South Sacramento Medical Center,Sacramento,CA,California,1,0,0,0,1,0,0,2
+Natividad Medical Center,Salinas ,CA,California,1,0,0,0,1,0,0,2
+Rady Children's Hospital - San Diego,San Diego,CA,California,0,1,0,0,0,1,0,2
+Scripps Mercy Hospital,San Diego,CA,California,1,0,0,0,1,0,0,2
+Sharp Memorial Hospital,San Diego,CA,California,1,0,0,0,1,0,0,2
+Zuckerberg San Francisco General Hospital ,San Francisco,CA,California,1,0,0,0,1,0,0,2
+HCA Regional Medical Center,San Jose,CA,California,1,0,0,0,1,0,0,2
+Santa Barbara Cottage Hospital,Santa Barbara,CA,California,1,0,0,0,1,0,0,2
+Santa Rosa Memorial Hospital,Santa Rosa,CA,California,1,0,0,0,1,0,0,2
+Los Robles Hospital and Medical Center,Thousand Oaks,CA,California,1,0,0,0,1,0,0,2
+Harbor-UCLA Medical Center,Torrance,CA,California,1,0,0,0,1,0,0,2
+Kaiser Permanente Vacaville Medical Center,Vacaville,CA,California,1,0,0,0,1,0,0,2
+Henry Mayo Newhall Hospital,Valencia,CA,California,1,0,0,0,1,0,0,2
+Ventura County Medical Center ,Ventura,CA,California,1,0,0,0,1,0,0,2
+"John Muir Medical Center, Walnut Creek",Walnut Creek,CA,California,1,0,0,0,1,0,0,2
+Cedar-Sinai Medical Center,West Hollywood,CA,California,1,0,0,0,1,0,0,2
+Inland Valley Medical Center,Wildomar,CA,California,1,0,0,0,1,0,0,2
+Medical Center of Aurora ,Aurora,CO,Colorado,1,0,0,0,1,0,0,2
+Boulder Community Foothills Hospital,Boulder,CO,Colorado,1,0,0,0,1,0,0,2
+Children's Hospital of Colorado at Memorial,Colorado Springs,CO,Colorado,0,1,0,0,0,1,0,2
+Penrose Hospital,Colorado Springs,CO,Colorado,1,0,0,0,1,0,0,2
+UCHealth Memorial Hospital,Colorado Springs,CO,Colorado,1,0,0,0,1,0,0,2
+St. Mary's Hospital and Medical Center,Grand Junction,CO,Colorado,1,0,0,0,1,0,0,2
+Good Samaritan Medical Center,Lafayette ,CO,Colorado,1,0,0,0,1,0,0,2
+St. Anthony Hospital,Lakewood,CO,Colorado,1,0,0,0,1,0,0,2
+Littleton Adventist Hospital ,Littleton,CO,Colorado,1,0,0,0,1,0,0,2
+Sky Ridge Medical Center ,Lone Tree,CO,Colorado,1,0,0,0,1,0,0,2
+UCHealth Medical Center of the Rockies,Loveland,CO,Colorado,1,0,0,0,1,0,0,2
+Parker Adventist Hospital,Parker,CO,Colorado,1,0,0,0,1,0,0,2
+North Suburban Medical Center,Thornton,CO,Colorado,1,0,0,0,1,0,0,2
+Lutheran Medical Center,Wheat Ridge,CO,Colorado,1,0,0,0,1,0,0,2
+St. Vincent's Medical Center ,Bridgeport,CT,Connecticut,1,0,0,0,1,0,0,2
+Danbury Hospital,Danbury,CT,Connecticut,1,0,0,0,1,0,0,2
+Connecticut Children's Medical Center,Hartford,CT,Connecticut,0,1,0,0,0,1,0,2
+Hartford Hospital,Hartford,CT,Connecticut,1,0,0,0,1,0,0,2
+Saint Francis Hospital and Medical Center,Hartford,CT,Connecticut,1,0,0,0,1,0,0,2
+Yale-New Haven Hospital-Saint Raphael,New Haven,CT,Connecticut,1,0,0,0,1,0,0,2
+Norwalk Hospital,Norwalk,CT,Connecticut,1,0,0,0,1,0,0,2
+Stamford Hospital,Stamford,CT,Connecticut,1,0,0,0,1,0,0,2
+Saint Mary's Hospital,Waterbury,CT,Connecticut,1,0,0,0,1,0,0,2
+Waterbury Hospital,Waterbury,CT,Connecticut,1,0,0,0,1,0,0,2
+ChristianaCare,Newark,DE,Delaware,1,0,0,0,1,0,0,2
+Nemours Children's Hospital ,Wilmington,DE,Delaware,0,1,0,0,0,1,0,2
+George Washington University Hospital,Washington,DC,District of Columbia,1,0,0,0,1,0,0,2
+Howard University Hospital,Washington,DC,District of Columbia,1,0,0,0,1,0,0,2
+Halifax Health Medical Center,Daytona Beach,FL,Florida,1,0,0,0,1,0,0,2
+Delray Medical Center,Delray Beach,FL,Florida,1,0,0,0,1,0,0,2
+Broward Health Medical Center,Fort Lauderdale,FL,Florida,1,0,0,0,1,0,0,2
+Lee Memorial Hospital,Fort Myers,FL,Florida,1,0,0,0,1,0,0,2
+Lawnwood Regional Medical Center,Fort Pierce,FL,Florida,1,0,0,0,1,0,0,2
+Fort Walton Beach Medical Center,Fort Walton Beach,FL,Florida,1,0,0,0,1,0,0,2
+Regional Medical Center Bayonet Point,Hudson,FL,Florida,1,0,0,0,1,0,0,2
+Florida Memorial Hospital (Jacksonville),Jacksonville,FL,Florida,1,0,0,0,1,0,0,2
+Shands Jacksonville Medical Center,Jacksonville,FL,Florida,1,0,0,0,1,0,0,2
+Wolfson Children's Hospital,Jacksonville,FL,Florida,0,1,0,0,0,1,0,2
+Osceola Regional Medical Center,Kissimmee,FL,Florida,1,0,0,0,1,0,0,2
+Lakeland Regional Medical Center,Lakeland,FL,Florida,1,0,0,0,1,0,0,2
+St. Mary's Medical Center,Mangonia Park,FL,Florida,1,0,0,0,1,0,0,2
+Health First Holmes Regional Medical Center,Melbourne,FL,Florida,1,0,0,0,1,0,0,2
+Aventura Hospital and Medical Center,Miami,FL,Florida,1,0,0,0,1,0,0,2
+Nicklaus Children's Hospital,Miami,FL,Florida,0,1,0,0,0,1,0,2
+Ocala Regional Medical Center,Ocala,FL,Florida,1,0,0,0,1,0,0,2
+Orange Park Medical Center,Orange Park,FL,Florida,1,0,0,0,1,0,0,2
+Jackson South Community Hospital,Palmetto Bay,FL,Florida,1,0,0,0,1,0,0,2
+Ascension Sacred Heart Bay,Panama City,FL,Florida,1,0,0,0,1,0,0,2
+Baptist Hospital,Pensacola,FL,Florida,1,0,0,0,1,0,0,2
+Broward Health North,Pompano Beach,FL,Florida,1,0,0,0,1,0,0,2
+Central Florida Regional Hospital,Sanford,FL,Florida,1,0,0,0,1,0,0,2
+Sarasota Memorial Health Care System,Sarasota,FL,Florida,1,0,0,0,1,0,0,2
+Bayfront Health St. Petersburg,St Petersburg,FL,Florida,1,0,0,0,1,0,0,2
+Johns Hopkins All Children's Hospital ,St Petersburg,FL,Florida,0,1,0,0,0,1,0,2
+Tallahassee Memorial HealthCare,Tallahassee,FL,Florida,1,0,0,0,1,0,0,2
+Piedmont Athens Regional Medical Center,Athens,GA,Georgia,1,0,0,0,1,0,0,2
+Children's Healthcare of Atlanta at Egleston,Atlanta,GA,Georgia,0,1,0,0,0,1,0,2
+Children's Healthcare of Atlanta at Scottish Rite,Atlanta,GA,Georgia,0,1,0,0,0,1,0,2
+WellStar Atlanta Medical Center,Atlanta,GA,Georgia,1,0,0,0,1,0,0,2
+Piedmont Columbus Regional Midtown,Columbus,GA,Georgia,1,0,0,0,1,0,0,2
+Northeast Georgia Medical Center,Gainesville,GA,Georgia,1,0,0,0,1,0,0,2
+Northside Hospital - Gwinnett,Lawrenceville,GA,Georgia,1,0,0,0,1,0,0,2
+Atrium Health Navicent The Medical Center,Macon,GA,Georgia,1,0,0,0,1,0,0,2
+WellStar Kennestone Hospital,Marietta,GA,Georgia,1,0,0,0,1,0,0,2
+Atrium Health Floyd,Rome,GA,Georgia,1,0,0,0,1,0,0,2
+WellStar North Fulton Hospital,Roswell,GA,Georgia,1,0,0,0,1,0,0,2
+Memorial Health University Medical Center,Savannah,GA,Georgia,1,0,0,0,1,0,0,2
+The Queen's Medical Center,Honolulu,HI,Hawaii,1,0,0,0,1,0,0,2
+Tripler Army Medical Center,Honolulu,HI,Hawaii,1,0,0,0,1,0,0,2
+Saint Alphonsus Regional Medical Center,Boise,ID,Idaho,1,0,0,0,1,0,0,2
+St. Luke's Children's Hospital and Regional Medical Center,Boise,ID,Idaho,0,1,0,0,0,1,0,2
+Portneuf Medical Center,Pocatello,ID,Idaho,1,0,0,0,1,0,0,2
+Northwest Community Healthcare,Arlington Heights,IL,Illinois,1,0,0,0,1,0,0,2
+AMITA Health Mercy Medical Center	,Aurora,IL,Illinois,1,0,0,0,1,0,0,2
+Rush Copley Medical Center	,Aurora,IL,Illinois,1,0,0,0,1,0,0,2
+Advocate Good Shepherd Hospital	,Barrington,IL,Illinois,1,0,0,0,1,0,0,2
+MacNeal Hospital	,Berwyn,IL,Illinois,1,0,0,0,1,0,0,2
+OSF St. Joseph Medical Center	,Bloomington,IL,Illinois,1,0,0,0,1,0,0,2
+AMITA Health Adventist Medical Center Bolingbrook	,Bolingbrook,IL,Illinois,1,0,0,0,1,0,0,2
+Memorial Hospital of Carbondale	,Carbondale,IL,Illinois,1,0,0,0,1,0,0,2
+Advocate Illinois Masonic Medical Center	,Chicago,IL,Illinois,1,0,0,0,1,0,0,2
+Ann & Robert H. Lurie Children's Hospital of Chicago	,Chicago,IL,Illinois,0,1,0,0,0,1,0,2
+Mount Sinai Hospital	,Chicago,IL,Illinois,1,0,0,0,1,0,0,2
+Northwestern Memorial Hospital,Chicago,IL,Illinois,1,0,0,0,1,0,0,2
+Decatur Memorial Hospital	,Decatur,IL,Illinois,1,0,0,0,1,0,0,2
+Advocate Good Samaritan Hospital	,Downers Grove,IL,Illinois,1,0,0,0,1,0,0,2
+AMITA Health Saint Joseph Hospital	,Elgin,IL,Illinois,1,0,0,0,1,0,0,2
+Advocate Sherman Hospital	,Elgin,IL,Illinois,1,0,0,0,1,0,0,2
+AMITA Health Alexian Brothers Medical Center,Elk Grove Village,IL,Illinois,1,0,0,0,1,0,0,2
+Elmhurst Memorial Hospital	,Elmhurst,IL,Illinois,1,0,0,0,1,0,0,2
+AMITA Health Saint Francis Hospital Evanston,Evanston,IL,Illinois,1,0,0,0,1,0,0,2
+NorthShore Evanston Hospital,Evanston,IL,Illinois,1,0,0,0,1,0,0,2
+Northwestern Medicine Delnor Hospital,Geneva,IL,Illinois,1,0,0,0,1,0,0,2
+AMITA Health Adventist Medical Center GlenOaks,Glendale Heights,IL,Illinois,1,0,0,0,1,0,0,2
+NorthShore Glenbrook Hospital,Glenview,IL,Illinois,1,0,0,0,1,0,0,2
+NorthShore Highland Park Hospital,Highland Park,IL,Illinois,1,0,0,0,1,0,0,2
+AMITA Health Adventist Medical Center Hinsdale,Hinsdale,IL,Illinois,1,0,0,0,1,0,0,2
+AMITA Health St. Alexius Medical Center Hoffman Estates,Hoffman Estates,IL,Illinois,1,0,0,0,1,0,0,2
+Northwestern Medicine Huntley,Huntley,IL,Illinois,1,0,0,0,1,0,0,2
+Presence St. Joseph Medical Center	,Joliet,IL,Illinois,1,0,0,0,1,0,0,2
+AMITA Health St. Mary's Hospital,Kankakee,IL,Illinois,1,0,0,0,1,0,0,2
+Riverside Medical Center,Kankakee,IL,Illinois,1,0,0,0,1,0,0,2
+AMITA Health Adventist Medical Center La Grange,La Grange,IL,Illinois,1,0,0,0,1,0,0,2
+Northwestern Medicine Lake Forest Hospital	,Lake Forest,IL,Illinois,1,0,0,0,1,0,0,2
+Advocate Condell Medical Center	,Libertyville,IL,Illinois,1,0,0,0,1,0,0,2
+Northwestern Medicine McHenry Hospital,McHenry,IL,Illinois,1,0,0,0,1,0,0,2
+Gottlieb Memorial Hospital,Melrose Park,IL,Illinois,1,0,0,0,1,0,0,2
+Morris Hospital & Healthcare Centers,Morris,IL,Illinois,1,0,0,0,1,0,0,2
+Edward Hospital	,Naperville,IL,Illinois,1,0,0,0,1,0,0,2
+Silver Cross Hospital	,New Lenox,IL,Illinois,1,0,0,0,1,0,0,2
+Carle BroMenn Medical Center,Normal,IL,Illinois,1,0,0,0,1,0,0,2
+Advocate Christ Medical Center,Oak Lawn,IL,Illinois,1,0,0,0,1,0,0,2
+Advocate Lutheran General Hospital,Park Ridge,IL,Illinois,1,0,0,0,1,0,0,2
+UnityPoint Health - Methodist Hospital,Peoria,IL,Illinois,1,0,0,0,1,0,0,2
+Blessing Hospital,Quincy,IL,Illinois,1,0,0,0,1,0,0,2
+UnityPoint Health - Trinity Rock Island,Rock Island,IL,Illinois,1,0,0,0,1,0,0,2
+Mercyhealth Javon Bea Hospital - Riverside Campus,Rockford,IL,Illinois,1,0,0,0,1,0,0,2
+SwedishAmerican - A Division of UW Health,Rockford,IL,Illinois,1,0,0,0,1,0,0,2
+"Genesis Medical Center, Silvis",Silvis,IL,Illinois,1,0,0,0,1,0,0,2
+Carle Foundation Hospital	,Urbana,IL,Illinois,1,0,0,0,1,0,0,2
+Vista Medical Center East	,Waukegan,IL,Illinois,1,0,0,0,1,0,0,2
+Northwestern Medicine Central Dupage Hospital	,Winfield,IL,Illinois,1,0,0,0,1,0,0,2
+Deaconess Midtown Hospital,Evansville,IN,Indiana,1,0,0,0,1,0,0,2
+Indiana University Health Methodist Hospital,Indianapolis,IN,Indiana,1,0,0,0,1,0,0,2
+Memorial Hospital of South Bend,South Bend,IN,Indiana,1,0,0,0,1,0,0,2
+MercyOne Siouxland Medical Center,Sioux City,IA,Iowa,1,0,0,0,1,0,0,2
+Overland Park Regional Medical Center,Overland Park,KS,Kansas,1,0,0,0,1,0,0,2
+Stormont Vail Health,Topeka,KS,Kansas,1,0,0,0,1,0,0,2
+Norton Children's Hospital,Louisville,KY,Kentucky,0,1,0,0,0,1,0,2
+Pikeville Medical Center,Pikeville,KY,Kentucky,1,0,0,0,1,0,0,2
+Rapides Regional Medical Center - Alexandria,Alexandria,LA,Louisiana,1,0,0,0,1,0,0,2
+Our Lady of the Lake Regional Medical Center,Baton Rouge,LA,Louisiana,1,0,0,0,1,0,0,2
+Lakeview Regional Medical Center,Covington,LA,Louisiana,1,0,0,0,1,0,0,2
+North Oaks Medical Center,Hammond,LA,Louisiana,1,0,0,0,1,0,0,2
+Ochsner Lafayette General Medical Center,Lafayette,LA,Louisiana,1,0,0,0,1,0,0,2
+Northern Light Eastern Maine Medical Center,Bangor,ME,Maine,1,0,0,0,1,0,0,2
+Sinai Hospital of Baltimore,Baltimore,MD,Maryland,1,0,0,0,1,0,0,2
+Suburban Hospital,Bethesda,MD,Maryland,1,0,0,0,1,0,0,2
+Walter Reed National Military Medical Center,Bethesda,MD,Maryland,1,0,0,0,1,0,0,2
+University of Maryland Capital Region Medical Center,Cheverly,MD,Maryland,1,0,0,0,1,0,0,2
+Beth Israel Deaconess Medical Center,Boston,MA,Massachusetts,1,0,0,0,1,0,0,2
+Boston Children's Hospital,Boston,MA,Massachusetts,0,1,0,0,0,1,0,2
+"Lahey Hospital & Medical Center, Burlington",Burlington,MA,Massachusetts,1,0,0,0,1,0,0,2
+St. Luke's Hospital,New Bedford,MA,Massachusetts,1,0,0,0,1,0,0,2
+South Shore Hospital,South Weymouth,MA,Massachusetts,1,0,0,0,1,0,0,2
+Henry Ford Macomb Hospital,Clinton Township,MI,Michigan,1,0,0,0,1,0,0,2
+Beaumont Hospital - Dearborn,Dearborn,MI,Michigan,1,0,0,0,1,0,0,2
+DMC - Sinai-Grace Hospital,Detroit,MI,Michigan,1,0,0,0,1,0,0,2
+Henry Ford Hospital,Detroit,MI,Michigan,1,0,0,0,1,0,0,2
+Beaumont Hospital - Farmington Hills,Farmington Hills,MI,Michigan,1,0,0,0,1,0,0,2
+Ascension Genesys Hospital,Grand Blanc,MI,Michigan,1,0,0,0,1,0,0,2
+Mercy Health Saint Mary's,Grand Rapids,MI,Michigan,1,0,0,0,1,0,0,2
+Henry Ford Allegiance Health,Jackson,MI,Michigan,1,0,0,0,1,0,0,2
+Ascension Borgess Hospital,Kalamazoo,MI,Michigan,1,0,0,0,1,0,0,2
+Sparrow Hospital,Lansing,MI,Michigan,1,0,0,0,1,0,0,2
+McLaren Lapeer Region,Lapeer,MI,Michigan,1,0,0,0,1,0,0,2
+St. Mary Mercy Livonia Hospital,Livonia,MI,Michigan,1,0,0,0,1,0,0,2
+UP Health System-Marquette,Marquette,MI,Michigan,1,0,0,0,1,0,0,2
+MidMichigan Medical Center-Midland,Midland,MI,Michigan,1,0,0,0,1,0,0,2
+McLaren Macomb Hospital,Mount Clemens,MI,Michigan,1,0,0,0,1,0,0,2
+Mercy Health Muskegon,Muskegon,MI,Michigan,1,0,0,0,1,0,0,2
+"Providence Park Hospital, Novi Campus",Novi,MI,Michigan,1,0,0,0,1,0,0,2
+McLaren Northern Michigan,Petoskey,MI,Michigan,1,0,0,0,1,0,0,2
+McLaren Oakland,Pontiac,MI,Michigan,1,0,0,0,1,0,0,2
+St. Joseph Mercy Oakland,Pontiac,MI,Michigan,1,0,0,0,1,0,0,2
+Ascension St. Mary's of Michigan,Saginaw ,MI,Michigan,1,0,0,0,1,0,0,2
+"Ascension Providence Hospital, Southfield Campus",Southfield,MI,Michigan,1,0,0,0,1,0,0,2
+Munson Medical Center,Traverse City,MI,Michigan,1,0,0,0,1,0,0,2
+Beaumont Hospital - Trenton,Trenton,MI,Michigan,1,0,0,0,1,0,0,2
+Beaumont Hospital - Troy,Troy,MI,Michigan,1,0,0,0,1,0,0,2
+Metro Health - University of Michigan Health,Wyoming,MI,Michigan,1,0,0,0,1,0,0,2
+St. Joseph Mercy Ann Arbor,Ypsilanti,MI,Michigan,1,0,0,0,1,0,0,2
+Mercy Hospital,Coon Rapids,MN,Minnesota ,1,0,0,0,1,0,0,2
+St. Luke's Hospital,Duluth,MN,Minnesota ,1,0,0,0,1,0,0,2
+Children's Hospital and Clinics of Minnesota,Minneapolis,MN,Minnesota ,0,1,0,0,0,1,0,2
+University of Minnesota Medical Center,Minneapolis,MN,Minnesota ,1,0,0,0,1,0,0,2
+North Memorial Health Hospital,Robbinsdale,MN,Minnesota ,1,0,0,0,1,0,0,2
+CentraCare - St. Cloud Hospital,Saint Cloud,MN,Minnesota ,1,0,0,0,1,0,0,2
+Memorial Hospital at Gulfport,Gulfport,MS,Mississippi,1,0,0,0,1,0,0,2
+Forrest General Hospital,Hattiesburg,MS,Mississippi,1,0,0,0,1,0,0,2
+University of Mississippi Medical Center,Jackson,MS,Mississippi,1,0,0,0,1,0,0,2
+North Mississippi Medical Center - Tupelo,Tupelo,MS,Mississippi,1,0,0,0,1,0,0,2
+SSM Health DePaul Hospital - St. Louis,Bridgeton,MO,Missouri,1,0,0,0,1,0,0,2
+Centerpoint Medical Center,Independence ,MO,Missouri,1,0,0,0,1,0,0,2
+Freeman Health System,Joplin,MO,Missouri,1,0,0,0,1,0,0,2
+Mercy Hospital Joplin,Joplin,MO,Missouri,1,0,0,0,1,0,0,2
+St. Luke's Hospital of Kansas City,Kansas City,MO,Missouri,1,0,0,0,1,0,0,2
+University Health Truman Medical Center,Kansas City,MO,Missouri,1,0,0,0,1,0,0,2
+Liberty Hospital,Liberty,MO,Missouri,1,0,0,0,1,0,0,2
+North Kansas City Hospital,North Kansas City,MO,Missouri,1,0,0,0,1,0,0,2
+Mosaic Life Care at St. Joseph - Medical Center,Saint Joseph,MO,Missouri,1,0,0,0,1,0,0,2
+Mercy Hospital South,Saint Louis,MO,Missouri,1,0,0,0,1,0,0,2
+SSM Cardinal Glennon Children's Hospital,Saint Louis,MO,Missouri,0,1,0,0,0,1,0,2
+SSM Health St. Louis University Hospital,Saint Louis,MO,Missouri,1,0,0,0,1,0,0,2
+Cox Medical Center South,Springfield,MO,Missouri,1,0,0,0,1,0,0,2
+Billings Clinic,Billings,MT,Montana,1,0,0,0,1,0,0,2
+SCL Health - St. Vincent Healthcare,Billings,MT,Montana,1,0,0,0,1,0,0,2
+Benefis Hospitals,Great Falls,MT,Montana,1,0,0,0,1,0,0,2
+Providence St. Patrick Hospital,Missoula,MT,Montana,1,0,0,0,1,0,0,2
+CHI Health Good Samaritan,Kearney ,NE,Nebraska,1,0,0,0,1,0,0,2
+Bryan Medical Center West,Lincoln,NE,Nebraska,1,0,0,0,1,0,0,2
+CHI Health Creighton University Medical Center - Bergan Mercy,Omaha,NE,Nebraska,1,0,0,0,1,0,0,2
+Children's Hospital & Medical Center,Omaha,NE,Nebraska,0,1,0,0,0,1,0,2
+Nebraska Medicine - Nebraska Medical Center,Omaha,NE,Nebraska,1,0,0,0,1,0,0,2
+Regional West Medical Center,Scottsbluff,NE,Nebraska,1,0,0,0,1,0,0,2
+Renown Regional Medical Center,Reno,NV,Nevada,1,0,0,0,1,0,0,2
+Concord Hospital,Concord,NH,New Hampshire,1,0,0,0,1,0,0,2
+Elliot Hospital,Manchester,NH,New Hampshire,1,0,0,0,1,0,0,2
+Portsmouth Regional Hospital,Portsmouth,NH,New Hampshire,1,0,0,0,1,0,0,2
+AtlantiCare Regional Medical Center,Atlantic City,NJ,New Jersey,1,0,0,0,1,0,0,2
+Hackensack University Medical Center,Hackensack,NJ,New Jersey,1,0,0,0,1,0,0,2
+Jersey City Medical Center - RWJBarnabas Health,Jersey City,NJ,New Jersey,1,0,0,0,1,0,0,2
+Morristown Medical Center,Morristown,NJ,New Jersey,1,0,0,0,1,0,0,2
+St. Joseph's University Medical Center,Paterson,NJ,New Jersey,1,0,0,0,1,0,0,2
+Capital Health Regional Medical Center,Trenton,NJ,New Jersey,1,0,0,0,1,0,0,2
+South Shore University Hospital (SSUH),Bay Shore,NY,New York,1,0,0,0,1,0,0,2
+NYC Health + Hospitals / Lincoln Medical & Mental Health Center,Bronx,NY,New York,1,0,0,0,1,0,0,2
+St. Barnabas Hospital,Bronx,NY,New York,1,0,0,0,1,0,0,2
+Brookdale Hospital Medical Center,Brooklyn,NY,New York,1,0,0,0,1,0,0,2
+NYC Health + Hospitals / Kings County,Brooklyn,NY,New York,1,0,0,0,1,0,0,2
+NYU Langone Hospital-Brooklyn ,Brooklyn,NY,New York,1,0,0,0,1,0,0,2
+NewYork Presbyterian Brooklyn Methodist Hospital,Brooklyn,NY,New York,1,0,0,0,1,0,0,2
+John R. Oishei Children's Hospital,Buffalo,NY,New York,0,1,0,0,0,1,0,2
+NYC Health + Hospitals / Elmhurst,Elmhurst,NY,New York,1,0,0,0,1,0,0,2
+New York-Presbyterian - Queens,Flushing,NY,New York,1,0,0,0,1,0,0,2
+Jamaica Hospital Medical Center,Jamaica,NY,New York,1,0,0,0,1,0,0,2
+UHS Wilson Medical Center,Johnson City,NY,New York,1,0,0,0,1,0,0,2
+North Shore University Hospital,Manhasset,NY,New York,1,0,0,0,1,0,0,2
+Garnet Health Medical Center,Middletown,NY,New York,1,0,0,0,1,0,0,2
+NYU Langone Hospital-Long Island,Mineola,NY,New York,1,0,0,0,1,0,0,2
+Cohen Children's Medical Center,New Hyde Park,NY,New York,0,1,0,0,0,1,0,2
+Morgan Stanley Children's Hospital of New York-Presbyterian,New York,NY,New York,0,1,0,0,0,1,0,2
+Mount Sinai Morningside,New York,NY,New York,1,0,0,0,1,0,0,2
+NYC Health + Hospitals / Bellevue Hospital,New York,NY,New York,1,0,0,0,1,0,0,2
+Mount Sinai South Nassau,Oceanside,NY,New York,1,0,0,0,1,0,0,2
+Mid Hudson Regional Hospital of Westchester Medical Center,Poughkeepsie,NY,New York,1,0,0,0,1,0,0,2
+Vassar Brothers Medical Center,Poughkeepsie,NY,New York,1,0,0,0,1,0,0,2
+Mission Hospitals,Asheville,NC,North Carolina,1,0,0,0,1,0,0,2
+Duke University Hospital,Durham,NC,North Carolina,1,0,0,0,1,0,0,2
+Moses H. Cone Memorial Hospital,Greensboro,NC,North Carolina,1,0,0,0,1,0,0,2
+"WakeMed Health & Hospitals, Raleigh Campus",Raleigh,NC,North Carolina,1,0,0,0,1,0,0,2
+New Hanover Regional Medical Center,Wilmington,NC,North Carolina,1,0,0,0,1,0,0,2
+CHI St. Alexius Health Bismarck,Bismarck,ND,North Dakota,1,0,0,0,1,0,0,2
+Sanford Medical Center,Bismarck,ND,North Dakota,1,0,0,0,1,0,0,2
+Essentia Health Fargo,Fargo,ND,North Dakota,1,0,0,0,1,0,0,2
+Altru Health System,Grand Forks,ND,North Dakota,1,0,0,0,1,0,0,2
+Trinity Health,Minot,ND,North Dakota,1,0,0,0,1,0,0,2
+Cleveland Clinic Akron General,Akron,OH,Ohio,1,0,0,0,1,0,0,2
+Summa Akron City Hospital,Akron,OH,Ohio,1,0,0,0,1,0,0,2
+Aultman Hospital,Canton,OH,Ohio,1,0,0,0,1,0,0,2
+Mercy Medical Center - Canton,Canton,OH,Ohio,1,0,0,0,1,0,0,2
+Cincinnati Children's Hospital Medical Center,Cincinnati,OH,Ohio,0,1,0,0,0,1,0,2
+Fairview Hospital,Cleveland,OH,Ohio,1,0,0,0,1,0,0,2
+UH Rainbow Babies and Children's Hospital,Cleveland,OH,Ohio,0,1,0,0,0,1,0,2
+University Hospitals Cleveland Medical Center,Cleveland,OH,Ohio,1,0,0,0,1,0,0,2
+Grant Medical Center,Columbus,OH,Ohio,1,0,0,0,1,0,0,2
+Mount Carmel East,Columbus,OH,Ohio,1,0,0,0,1,0,0,2
+OhioHealth Riverside Methodist Hospital,Columbus,OH,Ohio,1,0,0,0,1,0,0,2
+Kettering Health Main Campus,Kettering,OH,Ohio,1,0,0,0,1,0,0,2
+Lima Memorial Health System,Lima,OH,Ohio,1,0,0,0,1,0,0,2
+Mercy Health - St. Rita's Medical Center,Lima,OH,Ohio,1,0,0,0,1,0,0,2
+OhioHealth MedCentral Mansfield Hospital,Mansfield,OH,Ohio,1,0,0,0,1,0,0,2
+Cleveland Clinic Hillcrest Hospital,Mayfield Heights,OH,Ohio,1,0,0,0,1,0,0,2
+Mercy Health - St. Elizabeth Youngstown Hospital,Youngstown ,OH,Ohio,1,0,0,0,1,0,0,2
+St. Charles Medical Center Bend,Bend,OR,Oregon,1,0,0,0,1,0,0,2
+Good Samaritan Regional Medical Center,Corvallis,OR,Oregon,1,0,0,0,1,0,0,2
+Asante Rogue Regional Medical Center,Medford,OR,Oregon,1,0,0,0,1,0,0,2
+Salem Hospital,Salem,OR,Oregon,1,0,0,0,1,0,0,2
+Peacehealth Sacred Heart Medical Center at RiverBend,Springfield,OR,Oregon,1,0,0,0,1,0,0,2
+Jefferson Abington Health,Abington ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+UPMC Altoona,Altoona ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Lehigh Valley Hospital - Muhlenberg,Bethlehem ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+St. Luke's University Hospital - Bethlehem Campus,Bethlehem ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Penn State Health Holy Spirit Medical Center,Camp Hill,PA,Pennsylvania,1,0,0,0,1,0,0,2
+St. Luke's Anderson Campus,Easton ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+UPMC Hamot,Erie ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Conemaugh Memorial Medical Center,Johnstown ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Penn Medicine Lancaster General Hospital,Lancaster ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+St. Mary Medical Center,Langhorne ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Forbes Hospital,Monroeville ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Paoli Hospital,Paoli ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Children's Hospital of Philadelphia,Philadelphia ,PA,Pennsylvania,0,1,0,0,0,1,0,2
+Einstein Medical Center Philadelphia,Philadelphia ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Jefferson Torresdale Hospital,Philadelphia ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Penn Presbyterian Medical Center,Philadelphia ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Allegheny General Hospital,Pittsburgh,PA,Pennsylvania,1,0,0,0,1,0,0,2
+UPMC Children's Hospital of Pittsburgh,Pittsburgh,PA,Pennsylvania,0,1,0,0,0,1,0,2
+UPMC Presbyterian,Pittsburgh,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Guthrie Robert Packer Hospital,Sayre ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Geisinger Community Medical Center,Scranton ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Grand View Health,Sellersville ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Reading Hospital - Tower Health,West Reading,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Geisinger Wyoming Valley Medical Center,Wilkes-Barre,PA,Pennsylvania,1,0,0,0,1,0,0,2
+UPMC Williamsport,Williamsport ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+Lankenau Medical Center,Wynnewood ,PA,Pennsylvania,1,0,0,0,1,0,0,2
+WellSpan York Hospital,York,PA,Pennsylvania,1,0,0,0,1,0,0,2
+HCA Trident Medical Center ,Charleston,SC,South Carolina,1,0,0,0,1,0,0,2
+Shawn Jenkins Children's Hospital,Charleston,SC,South Carolina,0,1,0,0,0,1,0,2
+McLeod Regional Medical Center,Florence,SC,South Carolina,1,0,0,0,1,0,0,2
+Spartanburg Medical Center - Church Street Campus,Spartanburg,SC,South Carolina,1,0,0,0,1,0,0,2
+Monument Health Rapid City Hospital,Rapid City,SD,South Dakota,1,0,0,0,1,0,0,2
+Avera McKennan Hospital and University Health Center,Sioux Falls,SD,South Dakota,1,0,0,0,1,0,0,2
+Bristol Regional Medical Center,Bristol,TN,Tennessee,1,0,0,0,1,0,0,2
+Erlanger Baroness Hospital,Chattanooga,TN,Tennessee,1,0,0,0,1,0,0,2
+Johnson City Medical Center,Johnson City,TN,Tennessee,1,0,0,0,1,0,0,2
+University of Tennessee Medical Center,Knoxville,TN,Tennessee,1,0,0,0,1,0,0,2
+Le Bonheur Children's Hospital,Memphis,TN,Tennessee,0,1,0,0,0,1,0,2
+Medical City Arlington,Arlington,TX,Texas,1,0,0,0,1,0,0,2
+Dell Children's Medical Center of Central Texas,Austin,TX,Texas,0,1,0,0,0,1,0,2
+HCA St. David's South Austin Medical Center,Austin,TX,Texas,1,0,0,0,1,0,0,2
+CHI St. Joseph Regional Health Center,Bryan,TX,Texas,1,0,0,0,1,0,0,2
+HCA Houston Healthcare Conroe,Conroe,TX,Texas,1,0,0,0,1,0,0,2
+CHRISTUS Spohn Hospital Corpus Christi Shoreline,Corpus Christi,TX,Texas,1,0,0,0,1,0,0,2
+HCA Corpus Christi Medical Center - Bay Area,Corpus Christi,TX,Texas,1,0,0,0,1,0,0,2
+Baylor University Medical Center at Dallas,Dallas,TX,Texas,1,0,0,0,1,0,0,2
+Children's Medical Center of Dallas,Dallas,TX,Texas,0,1,0,0,0,1,0,2
+Medical City Dallas,Dallas,TX,Texas,0,1,0,0,0,1,0,2
+Methodist Dallas Medical Center,Dallas,TX,Texas,1,0,0,0,1,0,0,2
+Texas Health Presbyterian Hospital of Dallas,Dallas,TX,Texas,1,0,0,0,1,0,0,2
+Medical City Denton,Denton,TX,Texas,1,0,0,0,1,0,0,2
+Doctors Hospital at Renaissance,Edinburg,TX,Texas,1,0,0,0,1,0,0,2
+Del Sol Medical Center,El Paso,TX,Texas,1,0,0,0,1,0,0,2
+University Medical Center of El Paso,El Paso,TX,Texas,1,0,0,0,1,0,0,2
+Cook Children's Medical Center,Fort Worth,TX,Texas,0,1,0,0,0,1,0,2
+JPS Health Network,Fort Worth,TX,Texas,1,0,0,0,1,0,0,2
+Texas Health Harris Methodist Hospital Fort Worth,Fort Worth,TX,Texas,1,0,0,0,1,0,0,2
+Baylor Scott & White Medical Center - Grapevine,Grapevine,TX,Texas,1,0,0,0,1,0,0,2
+Valley Baptist Medical Center-Harlingen,Harlingen,TX,Texas,1,0,0,0,1,0,0,2
+Ben Taub Hospital - Harris Health System,Houston,TX,Texas,1,0,0,0,1,0,0,2
+HCA Houston Healthcare Northwest,Houston,TX,Texas,1,0,0,0,1,0,0,2
+Texas Children's Hospital,Houston,TX,Texas,0,1,0,0,0,1,0,2
+Ascension Seton Hays,Kyle,TX,Texas,1,0,0,0,1,0,0,2
+Covenant Children's Hospital,Lubbock,TX,Texas,0,1,0,0,0,1,0,2
+Covenant Medical Center,Lubbock,TX,Texas,1,0,0,0,1,0,0,2
+McAllen Medical Center,McAllen,TX,Texas,1,0,0,0,1,0,0,2
+Texas Health Presbyterian Hospital Plano,Plano,TX,Texas,1,0,0,0,1,0,0,2
+Ascension Seton Williamson,Round Rock,TX,Texas,1,0,0,0,1,0,0,2
+HCA St. David's Round Rock Medical Center,Round Rock,TX,Texas,1,0,0,0,1,0,0,2
+Memorial Hermann The Woodlands Hospital,The Woodlands,TX,Texas,1,0,0,0,1,0,0,2
+CHRISTUS Trinity Mother Frances Hospital - Tyler,Tyler,TX,Texas,1,0,0,0,1,0,0,2
+UT Health Tyler,Tyler,TX,Texas,1,0,0,0,1,0,0,2
+Baylor Scott & White Hillcrest Medical Center,Waco,TX,Texas,1,0,0,0,1,0,0,2
+HCA Houston Healthcare Clear Lake,Webster,TX,Texas,1,0,0,0,1,0,0,2
+United Regional Health Care System,Wichita Falls,TX,Texas,1,0,0,0,1,0,0,2
+Intermountain Medical Center,Murray,UT,Utah,1,0,0,0,1,0,0,2
+HCA Ogden Regional Medical Center,Ogden,UT,Utah,1,0,0,0,1,0,0,2
+McKay-Dee Hospital,Ogden,UT,Utah,1,0,0,0,1,0,0,2
+Utah Valley Hospital,Provo,UT,Utah,1,0,0,0,1,0,0,2
+HCA St. Mark's Hospital,Salt Lake City,UT,Utah,1,0,0,0,1,0,0,2
+Primary Children's Hospital,Salt Lake City,UT,Utah,0,1,0,0,0,1,0,2
+St. George Regional Hospital,St George,UT,Utah,1,0,0,0,1,0,0,2
+Virginia Hospital Center in Arlington,Arlington,VA,Virginia,1,0,0,0,1,0,0,2
+University of Virginia Medical Center,Charlottesville,VA,Virginia,1,0,0,0,1,0,0,2
+Inova Fairfax Hospital,Falls Church,VA,Virginia,1,0,0,0,1,0,0,2
+Mary Washington Hospital,Fredericksburg ,VA,Virginia,1,0,0,0,1,0,0,2
+Centra Lynchburg General Hospital,Lynchburg ,VA,Virginia,1,0,0,0,1,0,0,2
+Riverside Regional Medical Center,Newport News,VA,Virginia,1,0,0,0,1,0,0,2
+Children's Hospital of The King's Daughters,Norfolk,VA,Virginia,0,1,0,0,0,1,0,2
+Reston Hospital Center,Reston,VA,Virginia,1,0,0,0,1,0,0,2
+Henrico Doctors' Hospital,Richmond,VA,Virginia,1,0,0,0,1,0,0,2
+Winchester Medical Center,Winchester ,VA,Virginia,1,0,0,0,1,0,0,2
+PeaceHealth St. Joseph Medical Center ,Bellingham,WA,Washington,1,0,0,0,1,0,0,2
+Providence Regional Medical Center Everett,Everett,WA,Washington,1,0,0,0,1,0,0,2
+Madigan Army Medical Center Joint Base Lewis ,Joint Base Lewis-McChord,WA,Washington,1,0,0,0,1,0,0,2
+MultiCare Mary Bridge Children's Hospital and Health Center,Tacoma,WA,Washington,0,1,0,0,0,1,0,2
+Tacoma Trauma Center,Tacoma,WA,Washington,1,0,0,0,1,0,0,2
+PeaceHealth Southwest Medical Center,Vancouver,WA,Washington,1,0,0,0,1,0,0,2
+Charleston Area Medical Center,Charleston,WV,West Virginia,1,0,0,0,1,0,0,2
+St. Mary's Medical Center - Huntington,Huntington,WV,West Virginia,1,0,0,0,1,0,0,2
+Wheeling Hospital,Wheeling,WV,West Virginia,1,0,0,0,1,0,0,2
+Mayo Clinic Health System Eau Claire,Eau Claire,WI,Wisconsin,1,0,0,0,1,0,0,2
+Aurora BayCare Medical Center,Green Bay,WI,Wisconsin,1,0,0,0,1,0,0,2
+HSHS St. Vincent Hospital,Green Bay,WI,Wisconsin,1,0,0,0,1,0,0,2
+Mercyhealth Hospital and Trauma Center,Janesville,WI,Wisconsin,1,0,0,0,1,0,0,2
+Gundersen Lutheran Medical Center,La Crosse,WI,Wisconsin,1,0,0,0,1,0,0,2
+SSM Health St. Mary's Hospital Madison,Madison,WI,Wisconsin,1,0,0,0,1,0,0,2
+ThedaCare Regional Medical Center - Neenah,Neenah,WI,Wisconsin,1,0,0,0,1,0,0,2
+Aurora Medical Center Summit,Summit,WI,Wisconsin,1,0,0,0,1,0,0,2
+Aspirus Wausau Hospital,Wausau,WI,Wisconsin,1,0,0,0,1,0,0,2

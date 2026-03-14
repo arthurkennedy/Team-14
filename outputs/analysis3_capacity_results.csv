@@ -1,0 +1,636 @@
+STATE_FULL,HOSPITAL_NAME,BURN_BEDS
+Georgia,Doctors Hospital of Augusta (Joseph M. Still Burn Center),99.0
+New York,University of Rochester Medical Center/Strong Memorial Hospital (Kessler Burn Center),50.0
+Arizona,Valleywise Health (Arizona Burn Center),45.0
+Washington,UW Medicine/Harborview Medical Center (UW Medicine Regional Burn Center at Harborview),40.0
+Texas,Brooke Army Medical Center (USAISR Burn Center),40.0
+Virginia,Chippenham Hospital (Wound Healing Center),36.0
+North Carolina,University of North CarolinaHospitals/North Carolina Children's Hospital (North Carolina Jaycee Burn Center),36.0
+Arizona,Banner University Medical Center - Tucson (Burn Unit at Banner),35.0
+District of Columbia,Children's National Health System (Children's National Trauma and Burn Center),31.0
+Texas,Burn and Reconstructive Centers of America at Methodist Hospital,31.0
+Texas,Parkland Memorial Hospital (Parkland Burn Center),30.0
+Georgia,Joseph M. Still Burn Center at WellStar Cobb Hospital ,30.0
+Texas,Dell Seton Medical Center at the University of Texas (w/ Burn Center),30.0
+Texas,Shriners Hospital for Children - Galveston Pediatric Burn Center,30.0
+Alabama,University of Alabama at Birmingham Hospital (UAB Burn Center),28.0
+Florida,UF Health Shands Hospital (UF Health Shands Burn Center),27.0
+Illinois,John H. Stroger Jr. Hospital of Cook County (Sumner L. Koch Burn Center),26.0
+Tennessee,Vanderbilt University Medical Center/Monroe Carell Jr. Children's Hospital at Vanderbilt (Vanderbilt Burn Center),25.0
+South Carolina,MUSC Health University Medical Center (South Carolina Burn Center at MUSC),25.0
+North Carolina,Wake Forest Baptist Medical Center/Brenner Children's Hospital (Wake Forest Baptist Burn Center),24.0
+Missouri,Barnes-Jewish Hospital (Burn Center),24.0
+Massachusetts,Massachusetts General Hospital (Sumner M. Redstone Burn Center),22.0
+Missouri,University of Missouri Health System (George D. Peak Memorial Burn & Wound Center),21.0
+Illinois,Loyola University Medical Center (Loyola Burn Center),21.0
+Maryland,Johns Hopkins Bayview Medical Center (Johns Hopkins Adult Burn Center),20.0
+Oklahoma,Paul Silvertein Burn Center,20.0
+Louisiana,University Medical Center New Orleans (UMC Burn Center),20.0
+Colorado,Swedish Medical Center (Burn and Reconstructive Centers of Colorado),20.0
+California,LAC + USC Medical Center (LAC + USC Regional Burn Center),20.0
+New York,New York-Presbyterian Hospital/Weill Cornell Medical Center (William Randolph Hearst Burn Center),20.0
+Colorado,University of Colorado Hospital (Burn & Frostbite Center at UCHealth),19.0
+Pennsylvania,Lehigh Valley Hospital-Cedar Crest/Lehigh Valley Reilly Children's Hospital (Lehigh Valley Health Network Regional Burn Center),18.0
+Pennsylvania,St. Christopher's Hospital for Children (Stuart J. Hulnick Burn Center),18.0
+Ohio,Ohio State University Wexner Medical Center (The Ohio State Comprehensive Burn Center),18.0
+Florida,Kendall Regional Medical Center (Burn and Reconstructive Centers of FL),18.0
+Florida,Tampa General Hospital (Tampa General Hospital Regional Burn Center),18.0
+Alabama,USA Health University Hospital (Arnold Luterman Regional Burn Center),18.0
+Minnesota ,Regions Hospital/Gillette Children's Specialty Healthcare (Regions Hospital Burn Center),18.0
+Minnesota ,Hennepin Healthcare/Hennepin Healthcare Children's Hospital (Hennepin Healthcare Burn Center),17.0
+Iowa,University of Iowa Hospitals and Clinics/Stead Family Children's Hospital (UI Burn Center),17.0
+Virginia,VCU Medical Center (Evans-Haynes Burn Center),16.0
+Virginia,Sentara Norfolk General Hospital (Burn Center at Sentara Norfolk General Hospital),16.0
+Oregon,Legacy Emanuel Medical Center/Randall Children's Hospital (Oregon Burn Center),16.0
+California,Bothin Burn Center at St. Francis Memorial Hospital,16.0
+Kansas,The University of Kansas Hospital (Burnett Burn Center),16.0
+Kentucky,UL Hospital (University of Louisville Burn Center),16.0
+Nebraska,CHI Health St. Elizabeth Regional Burn Center,16.0
+New York,NYC Health + Hospitals / Jacobi Medical Center (Jacobi Burn Center),16.0
+Michigan,University of Michigan Health System/C.S. Mott Children's Hospital (UM Trauma Burn Center),16.0
+Nevada,University Medical Center (Lions Burn Center),16.0
+Utah,University of Utah Health (University of Utah Health Burn Center),15.0
+Texas,Medical City Plano (Burn and Reconstructive Center),15.0
+Idaho,Eastern Idaho Regional Medical Center (Burn Center at EIRMC),15.0
+Ohio,Nationwide Children's Hospital (Burn Center at Nationwide Children's Hospital),15.0
+Nevada,Sunrise Hospital and Medical Center (Burn and Reconstructive Center of Sunrise Hospital),15.0
+Indiana,Eskenazi Health (Richard M. Fairbanks Burn Center),15.0
+Minnesota ,Miller-Dwan Burn Center at Essentia Health Duluth,15.0
+Massachusetts,Shriners Burn Center at Shriners Hospitals for Children-Boston,15.0
+Massachusetts,Brigham and Women's Hospital (Burn Center),15.0
+Michigan,Hurley Medical Center/Hurley Children's Hospital (Hurley Medical Center Regional Burn Center),15.0
+Pennsylvania,Crozer-Chester Medical Center (Nathan Speare Regional Burn Treatment Center),14.0
+Illinois,University of Chicago Medical Center (University of Chicago Burn Center),14.0
+Tennessee,Regional One Health (Firefighters Regional One Burn Center),14.0
+California,Arrowhead Regional Medical Center (Edward G. Hirschman Burn Center),14.0
+Pennsylvania,West Penn Hospital Burn Center,14.0
+Ohio,MetroHealth Medical Center (Burn Care Center at MetroHealth),14.0
+Texas,Memorial Hermann Texas Medical Center (John S. Dunn Burn Center),14.0
+Louisiana,Ochsner LSU Health Shreveport (LSU Health Burn Center),13.0
+Missouri,Children's Mercy Kansas City (Children's Mercy Burn Unit),13.0
+Oklahoma,Ascension St. John Medical Center (Alexander Burn Center),13.0
+Ohio,Akron Children's Hospital (Akron Children's Hospital Burn Center),12.0
+Michigan,Detroit Receiving Hospital (Detroit Receiving Hospital Burn Center),12.0
+Kansas,Ascension Via Christi St. Francis (Ascension Via Christi Regional Burn Center),12.0
+Florida,Blake Medical Center (Burn Center at Blake Medical Center),12.0
+California,UC Davis Medical Center (UC Davis Regional Burn Center),12.0
+California,Torrance Memorial Burn Center,12.0
+Missouri,Mercy Hospital St. Louis (Mercy Burn Center St. Louis),12.0
+Tennessee,TriStar Skyline Medical Center (TriStar Skyline Burn and Reconstruction Center),12.0
+New Jersey,The Burn Center at Cooperman Barnabas Medical Center,12.0
+Wisconsin,Ascension Columbia St. Mary's Hospital Regional Burn Center,12.0
+Wisconsin,University of Wisconsin Hospitals (UW Burn and Wound Center),11.0
+Arkansas,Arkansas Children's Hospital (Arkansas Children's Hospital Burn Center),10.0
+New York,Nassau University Medical Center (Nassau County Firefighters Burn Center),10.0
+New Mexico,University of New Mexico Hospital (UNM Regional Burn Center),10.0
+Florida,Orlando Regional Medical Center/Arnold Palmer Hospital for Children (Warden Burn Center),10.0
+Indiana,Riley Hospital for Children at Indiana University Health (Burn Program at Riley IU Health),10.0
+Colorado,North Colorado Medical Center (Western States Burn Center),10.0
+Texas,University Medical Center (Timothy J. Harnar Burn Center),10.0
+Ohio,Mercy St. Vincent Medical Center (Mercy Health Medical Burn Center),10.0
+Pennsylvania,Temple University Hospital (Temple Burn Center),10.0
+New York,Westchester Medical Center/Maria Fareri Children's Hospital (Trauma Center at Westchester Medical Center),10.0
+New York,Staten Island University Hospital (Staten Island University Hospital Burn Center),10.0
+California,Community Regional Medical Center (Leon S. Peters Burn Center),10.0
+Ohio,University of Cincinnati Medical Center (UC Medical Center Burn Center),10.0
+California,Shriners Burn Center at Shriners Hospitals for Children - Nothern California,10.0
+Michigan,DMC - Children's Hospital of Michigan (Children's Hospital of Michigan Burn Center),10.0
+District of Columbia,MedStar Washington Hospital Center (The Burn Center at MedStar Washington Hospital Center),10.0
+Connecticut,Bridgeport Hospital (The Connecticut Burn Center),9.0
+Pennsylvania,UPMC Mercy (UPMC Mercy Burn Center),9.0
+Vermont,The University of Vermont Medical Center (University of Vermont Burn Center),9.0
+Missouri,Mercy Hospital Springfield (Mercy Burn Center Springfield),9.0
+New York,Stony Brook Medicine (Suffolk County Volunteer Firefighters Burn Center),8.0
+California,Santa Clara Valley Medical Center (Santa Clara Valley Medical Center Regional Burn Center),8.0
+Ohio,Miami Valley Hospital (Miami Valley Hospital Regional Burn Center),8.0
+New York,"Erie County Medical Center (Roger W. Seibel, MD, Burn Treatment Center)",8.0
+Michigan,Spectrum Health - Butterworth Hospital/Helen DeVos Children's Hospital (Spectrum Health Regional Burn Center),8.0
+California,UC Irvine Health (UCI Regional Burn Center),8.0
+California,The Grossman Burn Center at West Hills Hospital & Medical Center ,8.0
+Michigan,Bronson Methodist Hospital (Bronson Methodist Hospital Burn Center),8.0
+California,UC San Diego Medical Center (UCSD Regional Burn Center),8.0
+Missouri,HCA Research Medical Center (The Grossman Burn Center),8.0
+Louisiana,Baton Rouge General Regional Burn Center,8.0
+Indiana,Ascension St. Vincent Indianapolis Hospital/Peyton Manning Children's Hospital (Burn Center),8.0
+Indiana,Lutheran Hospital (Lutheran Hospital Burn Center),8.0
+Illinois,OSF Saint Anthony Medical Center (w/ Burn Unit),8.0
+Illinois,Memorial Medical Center (Regional Burn Center),8.0
+Hawaii,Straub Burn Center,7.0
+California,The Grossman Burn Center at Bakersfield Memorial Hospital ,7.0
+California,Orange County Global Medical Center (Orange County Burn Center),7.0
+Ohio,Dayton Children's Hospital (Shriners Children's Ohio Burn Center),7.0
+Maine,Maine Medical Center (Maine Medical Center Burn Unit),6.0
+Alabama,Children's of Alabama (Children's of Alabama Burn Center),6.0
+Louisiana,Grossman Burn Center at Our Lady of Lourdes Regional Medical Center,6.0
+Missouri,St. Louis Children's Hospital (Children's Hospital Burn Center),6.0
+New York,Upstate University Hospital/Upstate Golisano Children's Hospital (Clark Burn Center),6.0
+Texas,University of Texas Medical Branch (Blocker Burn Unit),6.0
+Wisconsin,Children's Wisconsin (Children's Wisconsin Burn Program),5.0
+New York,NYC Health + Hospitals / Harlem Hospital (Harlem Burn Center),5.0
+West Virginia,Cabell Huntington Hospital (Cabell Huntington Burn Intensive Care Unit),4.0
+Colorado,Children's Hospital Colorado (Children's Hospital Colorado Burn Center),3.0
+Arizona,Banner Thunderbird Medical Center,0.0
+Virginia,Riverside Regional Medical Center,0.0
+Virginia,University of Virginia Medical Center,0.0
+Virginia,Virginia Hospital Center in Arlington,0.0
+Virginia,Winchester Medical Center,0.0
+Wisconsin,Aurora Medical Center Summit,0.0
+Wisconsin,Froedtert Hospital,0.0
+Wisconsin,Gundersen Lutheran Medical Center,0.0
+Virginia,Carilion Roanoke Memorial Hospital,0.0
+Virginia,Centra Lynchburg General Hospital,0.0
+Virginia,Children's Hospital of The King's Daughters,0.0
+Virginia,Henrico Doctors' Hospital,0.0
+Virginia,Inova Fairfax Hospital,0.0
+Virginia,Mary Washington Hospital,0.0
+Arizona,Abrazo West Campus,0.0
+Connecticut,Danbury Hospital,0.0
+Connecticut,Hartford Hospital,0.0
+Connecticut,Norwalk Hospital,0.0
+Connecticut,Saint Francis Hospital and Medical Center,0.0
+Connecticut,Saint Mary's Hospital,0.0
+Connecticut,St. Vincent's Medical Center ,0.0
+Connecticut,Stamford Hospital,0.0
+Connecticut,Waterbury Hospital,0.0
+Connecticut,Yale-New Haven Hospital,0.0
+Washington,Providence Sacred Heart Medical Center & Children's Hospital,0.0
+Washington,Tacoma Trauma Center,0.0
+West Virginia,Charleston Area Medical Center,0.0
+West Virginia,St. Mary's Medical Center - Huntington,0.0
+West Virginia,West Virginia University Hospitals (J.W. Ruby Memorial Hospital),0.0
+West Virginia,Wheeling Hospital,0.0
+Florida,Wolfson Children's Hospital,0.0
+Florida,Ascension Sacred Heart Pensacola,0.0
+Florida,Aventura Hospital and Medical Center,0.0
+Florida,Baptist Hospital,0.0
+Florida,Bayfront Health St. Petersburg,0.0
+Florida,Broward Health Medical Center,0.0
+Florida,Broward Health North,0.0
+Florida,Central Florida Regional Hospital,0.0
+Florida,Delray Medical Center,0.0
+Florida,Florida Memorial Hospital (Jacksonville),0.0
+Florida,Fort Walton Beach Medical Center,0.0
+Florida,Halifax Health Medical Center,0.0
+Florida,Health First Holmes Regional Medical Center,0.0
+Florida,Jackson Memorial Hospital (Miami Burn Center),0.0
+Florida,Jackson South Community Hospital,0.0
+Florida,Johns Hopkins All Children's Hospital ,0.0
+Hawaii,The Queen's Medical Center,0.0
+Florida,Lakeland Regional Medical Center,0.0
+Florida,Lawnwood Regional Medical Center,0.0
+Florida,Lee Memorial Hospital,0.0
+Florida,Memorial Regional Hospital/Joe DiMaggio Children's Hospital,0.0
+Florida,Nicklaus Children's Hospital,0.0
+Florida,Ocala Regional Medical Center,0.0
+Florida,Orange Park Medical Center,0.0
+Florida,Osceola Regional Medical Center,0.0
+Florida,Regional Medical Center Bayonet Point,0.0
+Florida,Sarasota Memorial Health Care System,0.0
+Florida,Shands Jacksonville Medical Center,0.0
+Florida,St. Joseph's Hospital,0.0
+Florida,St. Mary's Medical Center,0.0
+Florida,Tallahassee Memorial HealthCare,0.0
+Illinois,AMITA Health St. Mary's Hospital,0.0
+Illinois,Advocate Christ Medical Center,0.0
+Georgia,Atrium Health Floyd,0.0
+Georgia,Atrium Health Navicent The Medical Center,0.0
+Georgia,Augusta University Medical Center,0.0
+Georgia,Children's Healthcare of Atlanta at Egleston,0.0
+Georgia,Children's Healthcare of Atlanta at Scottish Rite,0.0
+Georgia,Grady Memorial Hospital (Grady Burn Center),0.0
+Georgia,Memorial Health University Medical Center,0.0
+Georgia,Northeast Georgia Medical Center,0.0
+Georgia,Northside Hospital - Gwinnett,0.0
+Georgia,Piedmont Athens Regional Medical Center,0.0
+Georgia,Piedmont Columbus Regional Midtown,0.0
+Georgia,WellStar Atlanta Medical Center,0.0
+Georgia,WellStar Kennestone Hospital,0.0
+Georgia,WellStar North Fulton Hospital,0.0
+Illinois,"Genesis Medical Center, Silvis",0.0
+Illinois,Gottlieb Memorial Hospital,0.0
+Illinois,MacNeal Hospital	,0.0
+Hawaii,Tripler Army Medical Center,0.0
+Idaho,Portneuf Medical Center,0.0
+Idaho,Saint Alphonsus Regional Medical Center,0.0
+Idaho,St. Luke's Children's Hospital and Regional Medical Center,0.0
+Illinois,AMITA Health Adventist Medical Center Bolingbrook	,0.0
+Illinois,AMITA Health Adventist Medical Center GlenOaks,0.0
+Illinois,AMITA Health Adventist Medical Center Hinsdale,0.0
+Illinois,AMITA Health Adventist Medical Center La Grange,0.0
+Illinois,AMITA Health Alexian Brothers Medical Center,0.0
+Illinois,AMITA Health Mercy Medical Center	,0.0
+Illinois,AMITA Health Saint Francis Hospital Evanston,0.0
+Illinois,AMITA Health Saint Joseph Hospital	,0.0
+Illinois,AMITA Health St. Alexius Medical Center Hoffman Estates,0.0
+Illinois,Northwestern Medicine Lake Forest Hospital	,0.0
+Illinois,Northwestern Medicine McHenry Hospital,0.0
+Illinois,Northwestern Memorial Hospital,0.0
+Illinois,Advocate Condell Medical Center	,0.0
+Illinois,Advocate Good Samaritan Hospital	,0.0
+Illinois,Advocate Good Shepherd Hospital	,0.0
+Illinois,Advocate Illinois Masonic Medical Center	,0.0
+Illinois,Advocate Lutheran General Hospital,0.0
+Illinois,Advocate Sherman Hospital	,0.0
+Illinois,Ann & Robert H. Lurie Children's Hospital of Chicago	,0.0
+Illinois,Blessing Hospital,0.0
+Illinois,Carle BroMenn Medical Center,0.0
+Illinois,Carle Foundation Hospital	,0.0
+Illinois,Decatur Memorial Hospital	,0.0
+Illinois,Edward Hospital	,0.0
+Illinois,Elmhurst Memorial Hospital	,0.0
+Illinois,UnityPoint Health - Methodist Hospital,0.0
+Illinois,UnityPoint Health - Trinity Rock Island,0.0
+Illinois,Vista Medical Center East	,0.0
+Indiana,Ascension St. Vincent Evansville,0.0
+Indiana,Deaconess Midtown Hospital,0.0
+Illinois,Memorial Hospital of Carbondale	,0.0
+Illinois,Mercyhealth Javon Bea Hospital - Riverside Campus,0.0
+Illinois,Morris Hospital & Healthcare Centers,0.0
+Illinois,Mount Sinai Hospital	,0.0
+Illinois,NorthShore Evanston Hospital,0.0
+Illinois,NorthShore Glenbrook Hospital,0.0
+Illinois,NorthShore Highland Park Hospital,0.0
+Illinois,Northwest Community Healthcare,0.0
+Illinois,Northwestern Medicine Central Dupage Hospital	,0.0
+Illinois,Northwestern Medicine Delnor Hospital,0.0
+Illinois,Northwestern Medicine Huntley,0.0
+California,Kaiser Permanente Vacaville Medical Center,0.0
+California,Loma Linda University Medical Center/Loma Linda University Children's Hospital,0.0
+California,Long Beach Medical Center,0.0
+California,Los Robles Hospital and Medical Center,0.0
+California,Memorial Medical Center,0.0
+California,Mercy Medical Center Redding,0.0
+California,Mercy San Juan Medical Center,0.0
+California,Natividad Medical Center,0.0
+Illinois,OSF St. Francis Medical Center/OSF Children's Hospital of Illinois	,0.0
+Illinois,OSF St. Joseph Medical Center	,0.0
+Illinois,Presence St. Joseph Medical Center	,0.0
+Illinois,Riverside Medical Center,0.0
+Illinois,Rush Copley Medical Center	,0.0
+Illinois,Silver Cross Hospital	,0.0
+Illinois,St. John's Hospital/St. John's Children's Hospital	,0.0
+Illinois,SwedishAmerican - A Division of UW Health,0.0
+California,Pomona Valley Hospital Medical Center,0.0
+California,Providence Holy Cross Medical Center,0.0
+California,Providence Mission Hospital,0.0
+Kansas,Overland Park Regional Medical Center,0.0
+Kansas,Stormont Vail Health,0.0
+Kansas,Wesley Healthcare Center/Wesley Children's Hospital,0.0
+Kentucky,Norton Children's Hospital,0.0
+Kentucky,Pikeville Medical Center,0.0
+Kentucky,University of Kentucky Albert B. Chandler Hospital ,0.0
+Indiana,Indiana University Health Methodist Hospital,0.0
+Indiana,Memorial Hospital of South Bend,0.0
+Indiana,Parkview Regional Medical Center,0.0
+Iowa,MercyOne Des Moines Medical Center,0.0
+Iowa,MercyOne Siouxland Medical Center,0.0
+Iowa,UnityPoint Health - Iowa Methodist Medical Center/Blank Children's Hospital,0.0
+Louisiana,Our Lady of the Lake Regional Medical Center,0.0
+Louisiana,Rapides Regional Medical Center - Alexandria,0.0
+Maine,Northern Light Eastern Maine Medical Center,0.0
+Maryland,Johns Hopkins Hospital (Johns Hopkins Pediatric Burn Center),0.0
+Maryland,Sinai Hospital of Baltimore,0.0
+Maryland,Suburban Hospital,0.0
+Maryland,University of Maryland Capital Region Medical Center,0.0
+Maryland,Walter Reed National Military Medical Center,0.0
+Massachusetts,Baystate Medical Center,0.0
+Massachusetts,Beth Israel Deaconess Medical Center,0.0
+Massachusetts,Boston Children's Hospital,0.0
+California,NorthBay Medical Center,0.0
+California,Northridge Hospital Medical Center,0.0
+California,Palomar Medical Center Escondido,0.0
+Colorado,Littleton Adventist Hospital ,0.0
+Colorado,Lutheran Medical Center,0.0
+Colorado,Medical Center of Aurora ,0.0
+Colorado,North Suburban Medical Center,0.0
+Colorado,Parker Adventist Hospital,0.0
+Colorado,Penrose Hospital,0.0
+Michigan,"Ascension Providence Hospital, Southfield Campus",0.0
+Michigan,Ascension St. John Hospital,0.0
+Michigan,Ascension St. Mary's of Michigan,0.0
+Michigan,Beaumont Hospital - Dearborn,0.0
+Michigan,Beaumont Hospital - Farmington Hills,0.0
+Michigan,Beaumont Hospital - Royal Oak,0.0
+Michigan,Beaumont Hospital - Trenton,0.0
+Louisiana,Lakeview Regional Medical Center,0.0
+Louisiana,North Oaks Medical Center,0.0
+Louisiana,Ochsner Lafayette General Medical Center,0.0
+Michigan,Mercy Health Saint Mary's,0.0
+Massachusetts,Boston Medical Center,0.0
+Massachusetts,"Lahey Hospital & Medical Center, Burlington",0.0
+Massachusetts,South Shore Hospital,0.0
+Massachusetts,St. Luke's Hospital,0.0
+Massachusetts,Tufts Medical Center,0.0
+Michigan,Ascension Borgess Hospital,0.0
+Michigan,Ascension Genesys Hospital,0.0
+Connecticut,Yale-New Haven Hospital-Saint Raphael,0.0
+Delaware,ChristianaCare,0.0
+Delaware,Nemours Children's Hospital ,0.0
+District of Columbia,George Washington University Hospital,0.0
+District of Columbia,Howard University Hospital,0.0
+Florida,Ascension Sacred Heart Bay,0.0
+Colorado,Denver Health Medical Center,0.0
+Colorado,Good Samaritan Medical Center,0.0
+Minnesota ,CentraCare - St. Cloud Hospital,0.0
+Minnesota ,Children's Hospital and Clinics of Minnesota,0.0
+Minnesota ,Essentia Health St. Mary's Medical Center,0.0
+Minnesota ,"Mayo Clinic Hospital, Saint Mary's Campus",0.0
+Minnesota ,Mercy Hospital,0.0
+Michigan,Beaumont Hospital - Troy,0.0
+Michigan,Covenant HealthCare,0.0
+Michigan,DMC - Sinai-Grace Hospital,0.0
+Michigan,Henry Ford Allegiance Health,0.0
+Michigan,Henry Ford Hospital,0.0
+Michigan,Henry Ford Macomb Hospital,0.0
+Michigan,McLaren Lapeer Region,0.0
+Michigan,McLaren Macomb Hospital,0.0
+Michigan,McLaren Northern Michigan,0.0
+Michigan,McLaren Oakland,0.0
+Michigan,Mercy Health Muskegon,0.0
+California,Sutter Roseville Medical Center,0.0
+Missouri,Cox Medical Center South,0.0
+Missouri,Freeman Health System,0.0
+Missouri,Liberty Hospital,0.0
+Missouri,Mercy Hospital Joplin,0.0
+Missouri,Mercy Hospital South,0.0
+Michigan,Metro Health - University of Michigan Health,0.0
+Michigan,MidMichigan Medical Center-Midland,0.0
+Michigan,Munson Medical Center,0.0
+Michigan,"Providence Park Hospital, Novi Campus",0.0
+Michigan,Sparrow Hospital,0.0
+Michigan,St. Joseph Mercy Ann Arbor,0.0
+Michigan,St. Joseph Mercy Oakland,0.0
+Michigan,St. Mary Mercy Livonia Hospital,0.0
+Michigan,UP Health System-Marquette,0.0
+Minnesota ,North Memorial Health Hospital,0.0
+Minnesota ,St. Luke's Hospital,0.0
+Minnesota ,University of Minnesota Medical Center,0.0
+Mississippi,Forrest General Hospital,0.0
+Mississippi,Memorial Hospital at Gulfport,0.0
+Mississippi,North Mississippi Medical Center - Tupelo,0.0
+Mississippi,University of Mississippi Medical Center,0.0
+Missouri,Centerpoint Medical Center,0.0
+Colorado,Sky Ridge Medical Center ,0.0
+Colorado,St. Anthony Hospital,0.0
+Colorado,St. Mary's Hospital and Medical Center,0.0
+Colorado,UCHealth Medical Center of the Rockies,0.0
+Colorado,UCHealth Memorial Hospital,0.0
+Connecticut,Connecticut Children's Medical Center,0.0
+California,Stanford Health Care/Lucile Packard Children's Hospital Stanford,0.0
+California,Sutter Health Eden Medical Center,0.0
+New Jersey,Morristown Medical Center,0.0
+Missouri,Mosaic Life Care at St. Joseph - Medical Center,0.0
+Missouri,North Kansas City Hospital,0.0
+Missouri,SSM Cardinal Glennon Children's Hospital,0.0
+Missouri,SSM Health DePaul Hospital - St. Louis,0.0
+Missouri,SSM Health St. Louis University Hospital,0.0
+Arizona,Banner Desert Medical Center/Banner Children's at Desert,0.0
+Missouri,St. Luke's Hospital of Kansas City,0.0
+Missouri,University Health Truman Medical Center,0.0
+Montana,Benefis Hospitals,0.0
+Montana,Billings Clinic,0.0
+Montana,Providence St. Patrick Hospital,0.0
+Montana,SCL Health - St. Vincent Healthcare,0.0
+Nebraska,Bryan Medical Center West,0.0
+Nebraska,CHI Health Creighton University Medical Center - Bergan Mercy,0.0
+Nebraska,CHI Health Good Samaritan,0.0
+New York,Mid Hudson Regional Hospital of Westchester Medical Center,0.0
+New York,Morgan Stanley Children's Hospital of New York-Presbyterian,0.0
+Nebraska,Children's Hospital & Medical Center,0.0
+Nebraska,Nebraska Medicine - Nebraska Medical Center,0.0
+Nebraska,Regional West Medical Center,0.0
+Nevada,Renown Regional Medical Center,0.0
+New Hampshire,Concord Hospital,0.0
+New Hampshire,Dartmouth-Hitchcock Medical Center,0.0
+New Hampshire,Elliot Hospital,0.0
+New Hampshire,Portsmouth Regional Hospital,0.0
+New Jersey,AtlantiCare Regional Medical Center,0.0
+New Jersey,Capital Health Regional Medical Center,0.0
+New Jersey,Cooper University Health Care,0.0
+New Jersey,Hackensack University Medical Center,0.0
+New Jersey,Jersey City Medical Center - RWJBarnabas Health,0.0
+New Jersey,Jersey Shore University Medical Center,0.0
+New York,NewYork Presbyterian Brooklyn Methodist Hospital,0.0
+New York,North Shore University Hospital,0.0
+New York,Richmond University Medical Center,0.0
+New York,South Shore University Hospital (SSUH),0.0
+New York,St. Barnabas Hospital,0.0
+New Jersey,New Jersey Trauma Center at the University Hospital,0.0
+New Jersey,Robert Wood Johnson University Hospital,0.0
+New Jersey,St. Joseph's University Medical Center,0.0
+New York,Albany Medical Center,0.0
+New York,Brookdale Hospital Medical Center,0.0
+New York,Cohen Children's Medical Center,0.0
+New York,Garnet Health Medical Center,0.0
+New York,Good Samaritan Hospital Medical Center,0.0
+New York,Jamaica Hospital Medical Center,0.0
+New York,John R. Oishei Children's Hospital,0.0
+New York,Maimonides Medical Center/Maimonides Children's Hospital,0.0
+North Carolina,New Hanover Regional Medical Center,0.0
+North Carolina,Vidant Medical Center/Maynard Children's Hospital,0.0
+North Carolina,"WakeMed Health & Hospitals, Raleigh Campus",0.0
+North Dakota,Altru Health System,0.0
+North Dakota,CHI St. Alexius Health Bismarck,0.0
+North Dakota,Essentia Health Fargo,0.0
+New York,Mount Sinai Morningside,0.0
+New York,Mount Sinai South Nassau,0.0
+New York,NYC Health + Hospitals / Bellevue Hospital,0.0
+New York,NYC Health + Hospitals / Elmhurst,0.0
+Arizona,Banner University Medical Center - Phoenix,0.0
+New York,NYC Health + Hospitals / Kings County,0.0
+New York,NYC Health + Hospitals / Lincoln Medical & Mental Health Center,0.0
+New York,NYU Langone Hospital-Brooklyn ,0.0
+New York,NYU Langone Hospital-Long Island,0.0
+New York,New York-Presbyterian - Queens,0.0
+California,Cedar-Sinai Medical Center,0.0
+California,Children's Hospital Los Angeles,0.0
+California,Children's Hospital of Orange County,0.0
+California,Desert Regional Medical Center,0.0
+California,Doctors Medical Center,0.0
+California,Enloe Medical Center,0.0
+California,HCA Regional Medical Center,0.0
+California,HCA Riverside Community Hospital,0.0
+California,Harbor-UCLA Medical Center,0.0
+New York,UHS Wilson Medical Center,0.0
+Alabama,Baptist Medical Center South ,0.0
+New York,Vassar Brothers Medical Center,0.0
+North Carolina,Carolinas Medical Center/Levine Children's Hospital,0.0
+North Carolina,Duke University Hospital,0.0
+North Carolina,Mission Hospitals,0.0
+North Carolina,Moses H. Cone Memorial Hospital,0.0
+California,Kaiser Permanente South Sacramento Medical Center,0.0
+Ohio,Cleveland Clinic Akron General,0.0
+Ohio,Cleveland Clinic Hillcrest Hospital,0.0
+Alabama,Huntsville Hospital ,0.0
+Ohio,Fairview Hospital,0.0
+Ohio,Grant Medical Center,0.0
+Ohio,Kettering Health Main Campus,0.0
+Ohio,Lima Memorial Health System,0.0
+Ohio,Mercy Health - St. Elizabeth Youngstown Hospital,0.0
+Ohio,Mercy Health - St. Rita's Medical Center,0.0
+Ohio,Mercy Medical Center - Canton,0.0
+North Dakota,Sanford Medical Center,0.0
+North Dakota,Sanford Medical Center Fargo,0.0
+North Dakota,Trinity Health,0.0
+Ohio,Aultman Hospital,0.0
+Ohio,Cincinnati Children's Hospital Medical Center,0.0
+Wisconsin,Aurora BayCare Medical Center,0.0
+California,Rady Children's Hospital - San Diego,0.0
+California,Riverside University Health System Medical Center,0.0
+California,Ronald Reagan UCLA Medical Center,0.0
+California,San Joaquin General Hospital,0.0
+California,Santa Barbara Cottage Hospital,0.0
+Ohio,UH Rainbow Babies and Children's Hospital,0.0
+Ohio,University Hospitals Cleveland Medical Center,0.0
+Oklahoma,OU Medical Center,0.0
+Oregon,Asante Rogue Regional Medical Center,0.0
+Oregon,Good Samaritan Regional Medical Center,0.0
+California,Henry Mayo Newhall Hospital,0.0
+California,Highland Hospital,0.0
+California,Huntington Hospital,0.0
+California,Inland Valley Medical Center,0.0
+California,"John Muir Medical Center, Walnut Creek",0.0
+Pennsylvania,Grand View Health,0.0
+Pennsylvania,Guthrie Robert Packer Hospital,0.0
+Pennsylvania,Jefferson Abington Health,0.0
+Ohio,Mount Carmel East,0.0
+Ohio,OhioHealth MedCentral Mansfield Hospital,0.0
+Ohio,OhioHealth Riverside Methodist Hospital,0.0
+Ohio,ProMedica Toledo Hospital/Russell J. Ebeid Children's Hospital,0.0
+Ohio,Summa Akron City Hospital,0.0
+California,UCSF Benioff Children's Hospital Oakland,0.0
+California,Valley Children's Healthcare,0.0
+California,Ventura County Medical Center ,0.0
+California,Zuckerberg San Francisco General Hospital ,0.0
+Colorado,Boulder Community Foothills Hospital,0.0
+Alabama,Southeast Alabama Medical Center,0.0
+Colorado,Children's Hospital of Colorado at Memorial,0.0
+Wisconsin,Aspirus Wausau Hospital,0.0
+Pennsylvania,St. Mary Medical Center,0.0
+Pennsylvania,Thomas Jefferson University Hospital (Thomas Jefferson University Hospital Burn Center),0.0
+Pennsylvania,UPMC Altoona,0.0
+Pennsylvania,UPMC Children's Hospital of Pittsburgh,0.0
+Oregon,Oregon Health & Science University/Doernbecher Children's Hospital,0.0
+Oregon,Peacehealth Sacred Heart Medical Center at RiverBend,0.0
+Oregon,Salem Hospital,0.0
+Oregon,St. Charles Medical Center Bend,0.0
+Pennsylvania,Allegheny General Hospital,0.0
+Pennsylvania,Children's Hospital of Philadelphia,0.0
+Pennsylvania,Conemaugh Memorial Medical Center,0.0
+Pennsylvania,Einstein Medical Center Philadelphia,0.0
+Pennsylvania,Forbes Hospital,0.0
+Pennsylvania,Geisinger Community Medical Center,0.0
+Pennsylvania,Geisinger Medical Center/ Geisinger Janet Weis Children's Hospital,0.0
+Pennsylvania,Geisinger Wyoming Valley Medical Center,0.0
+South Carolina,Prisma Health Richland,0.0
+South Carolina,Shawn Jenkins Children's Hospital,0.0
+South Carolina,Spartanburg Medical Center - Church Street Campus,0.0
+South Dakota,Avera McKennan Hospital and University Health Center,0.0
+South Dakota,Monument Health Rapid City Hospital,0.0
+Pennsylvania,Jefferson Torresdale Hospital,0.0
+Pennsylvania,Lankenau Medical Center,0.0
+Pennsylvania,Lehigh Valley Hospital - Muhlenberg,0.0
+Pennsylvania,Paoli Hospital,0.0
+Pennsylvania,Penn Medicine Lancaster General Hospital,0.0
+Pennsylvania,Penn Presbyterian Medical Center,0.0
+Pennsylvania,Penn State Health Holy Spirit Medical Center,0.0
+Pennsylvania,Penn State Milton S. Hershey Medical Center/Penn State Children's Hospital,0.0
+Pennsylvania,Reading Hospital - Tower Health,0.0
+Pennsylvania,St. Luke's Anderson Campus,0.0
+Pennsylvania,St. Luke's University Hospital - Bethlehem Campus,0.0
+Texas,Ascension Seton Williamson,0.0
+Texas,Baylor Scott & White Hillcrest Medical Center,0.0
+Texas,Baylor Scott & White Medical Center - Grapevine,0.0
+Texas,Baylor Scott & White Medical Center - Temple,0.0
+Texas,Baylor University Medical Center at Dallas,0.0
+Texas,Ben Taub Hospital - Harris Health System,0.0
+Texas,CHI St. Joseph Regional Health Center,0.0
+Pennsylvania,UPMC Hamot,0.0
+Pennsylvania,UPMC Presbyterian,0.0
+Pennsylvania,UPMC Williamsport,0.0
+Pennsylvania,WellSpan York Hospital,0.0
+Rhode Island,Rhode Island Hospital/Hasbro Children's Hospital (Rhode Island Burn Center),0.0
+South Carolina,Grand Strand Medical Center,0.0
+South Carolina,HCA Trident Medical Center ,0.0
+South Carolina,McLeod Regional Medical Center,0.0
+South Carolina,Prisma Health Greenville Memorial Hospital,0.0
+Texas,Dell Children's Medical Center of Central Texas,0.0
+Texas,Doctors Hospital at Renaissance,0.0
+Texas,HCA Corpus Christi Medical Center - Bay Area,0.0
+Texas,HCA Houston Healthcare Clear Lake,0.0
+Texas,HCA Houston Healthcare Conroe,0.0
+Texas,HCA Houston Healthcare Northwest,0.0
+Texas,HCA St. David's Round Rock Medical Center,0.0
+Texas,HCA St. David's South Austin Medical Center,0.0
+Texas,JPS Health Network,0.0
+South Dakota,Sanford USD Medical Center,0.0
+Tennessee,Bristol Regional Medical Center,0.0
+Tennessee,Erlanger Baroness Hospital,0.0
+Tennessee,Johnson City Medical Center,0.0
+Tennessee,Le Bonheur Children's Hospital,0.0
+Tennessee,University of Tennessee Medical Center,0.0
+Texas,Ascension Seton Hays,0.0
+California,Antelope Valley Hospital ,0.0
+California,California Hospital Medical Center,0.0
+Utah,Utah Valley Hospital,0.0
+Texas,Texas Health Harris Methodist Hospital Fort Worth,0.0
+Texas,Texas Health Presbyterian Hospital Plano,0.0
+Texas,Texas Health Presbyterian Hospital of Dallas,0.0
+Texas,UT Health Tyler,0.0
+Texas,United Regional Health Care System,0.0
+Texas,University Hospital (Pediatric Burn Center),0.0
+Texas,CHRISTUS Spohn Hospital Corpus Christi Shoreline,0.0
+Texas,CHRISTUS Trinity Mother Frances Hospital - Tyler,0.0
+Texas,Children's Medical Center of Dallas,0.0
+Texas,Cook Children's Medical Center,0.0
+Texas,Covenant Children's Hospital,0.0
+Texas,Covenant Medical Center,0.0
+Texas,Del Sol Medical Center,0.0
+Texas,Medical City Dallas,0.0
+Texas,Medical City Denton,0.0
+Texas,Memorial Hermann The Woodlands Hospital,0.0
+Texas,Methodist Dallas Medical Center,0.0
+Texas,Texas Children's Hospital,0.0
+California,Santa Rosa Memorial Hospital,0.0
+California,Scripps Memorial Hospital,0.0
+California,Scripps Mercy Hospital,0.0
+California,Sharp Memorial Hospital,0.0
+California,St. Francis Medical Center Lynwood,0.0
+California,St. Mary Medical Center Long Beach,0.0
+Arkansas,Baptist Health Medical Center,0.0
+Arkansas,CHI St. Vincent Hospital Hot Springs,0.0
+Arkansas,CHI St. Vincent Infirmary ,0.0
+Arkansas,UAMS Medical Center,0.0
+Arkansas,Washington Regional Medical Center,0.0
+Alaska,Providence Alaska Medical Center/Children's Hospital at Providence,0.0
+Alaska,Alaska Native Medical Center,0.0
+Texas,Valley Baptist Medical Center-Harlingen,0.0
+Utah,HCA Ogden Regional Medical Center,0.0
+Utah,HCA St. Mark's Hospital,0.0
+Utah,Intermountain Medical Center,0.0
+Utah,McKay-Dee Hospital,0.0
+Utah,Primary Children's Hospital,0.0
+Utah,St. George Regional Hospital,0.0
+Arizona,HonorHealth Deer Valley Medical Center,0.0
+Arizona,HonorHealth John C. Lincoln Medical Center,0.0
+Arizona,HonorHealth Scottsdale Osborn Medical Center,0.0
+Arizona,Phoenix Children's Hospital,0.0
+Arizona,St. Joseph's Hospital and Medical Center,0.0
+Texas,McAllen Medical Center,0.0
+Virginia,Reston Hospital Center,0.0
+Texas,Medical City Arlington,0.0
+Arizona,Carondelet St. Joseph's Hospital,0.0
+Arizona,Chandler Regional Medical Center,0.0
+Arizona,Flagstaff Medical Center,0.0
+Washington,Madigan Army Medical Center Joint Base Lewis ,0.0
+Washington,MultiCare Mary Bridge Children's Hospital and Health Center,0.0
+Washington,PeaceHealth Southwest Medical Center,0.0
+Washington,PeaceHealth St. Joseph Medical Center ,0.0
+Washington,Providence Regional Medical Center Everett,0.0
+Wisconsin,HSHS St. Vincent Hospital,0.0
+Wisconsin,Marshfield Medical Center,0.0
+Wisconsin,Mayo Clinic Health System Eau Claire,0.0
+Wisconsin,Mercyhealth Hospital and Trauma Center,0.0
+Wisconsin,SSM Health St. Mary's Hospital Madison,0.0
+Wisconsin,ThedaCare Regional Medical Center - Neenah,0.0
+Texas,University Medical Center of El Paso,0.0
