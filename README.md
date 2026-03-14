@@ -164,7 +164,7 @@ git clone https://github.com/ArthurKennedy/Team-14.git
 ### 2. Install dependencies
 
 ```
-pip install pandas numpy matplotlib seaborn folium geopy
+pip install pandas geopandas matplotlib seaborn openpyxl plotly
 ```
 
 ### 3. Run the notebooks in order
