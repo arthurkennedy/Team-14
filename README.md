@@ -2,9 +2,7 @@
 
 ## Problem Statement
 
-Many trauma hospitals lack specialized burn units and must transfer patients
-to chosen burn centers. Inefficient referral pathways can lead to delays in
-care, which negatively affects patient outcomes.
+Trauma hospitals must transfer burn patients to other facilities for definitive care. These transfers can introduce delays in treatment and create additional pressure on a small number of specialized burn centers, particularly for hospitals located in rural or remote regions.
 
 How can we improve access to specialized burn care for trauma hospitals located in areas that do not have burn treatment capabilities?
 
