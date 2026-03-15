@@ -2,9 +2,11 @@
 
 ## Problem Statement
 
-How can we improve access to specialized burn care for trauma hospitals located in areas that do not have burn treatment capabilities?
+Many trauma hospitals lack specialized burn units and must transfer patients
+to chosen burn centers. Inefficient referral pathways can lead to delays in
+care, which negatively affects patient outcomes.
 
-Many trauma hospitals lack specialized burn units and must transfer patients to designated burn centers. Inefficient referral pathways can lead to delays in care, which negatively impacts patient outcomes.
+How can we improve access to specialized burn care for trauma hospitals located in areas that do not have burn treatment capabilities?
 
 ---
 
@@ -144,12 +146,13 @@ This project produces:
 
 # Technologies Used
 
-- Python
-- Pandas
+- Colab
 - Jupyter Notebook
-- Geospatial analysis
-- Matplotlib / Seaborn
-- Folium for geographic visualization
+- Python
+- GitHub
+- Pandas
+- Capacity Analysis
+- Referral Optimization
 
 ---
 
@@ -188,7 +191,7 @@ By identifying trauma hospitals lacking burn treatment capability and optimizing
 
 Potential extensions include:
 
-- Travel-time analysis using road networks instead of straight-line distance
-- Simulation of regional burn care referral networks
-- Integration with population health and injury incidence data
-- Development of decision-support tools for hospital referral planning
+- Incorporate real-time burn bed availability​
+- Include population demand and burn injury risk​
+- Develop an interactive referral optimization tool​
+- Evaluate telemedicine for remote burn consultation​
